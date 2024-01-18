@@ -1,4 +1,12 @@
 form{
-	background-color: skyblue
+	background-color: skyblue;
+	width: 400px;
+	padding: 5%;
+		
+}
+
+#submit{
+	background-color: lightgreen;
+	border-radius: 5px;
 	
 }
